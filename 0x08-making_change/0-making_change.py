@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """This module calcultes the number of ways to make change.
 """
